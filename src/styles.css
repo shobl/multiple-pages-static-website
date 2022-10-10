@@ -86,7 +86,12 @@ img {
 .link-homepage:hover {
     text-decoration: underline;
 }
-
+#link-help {
+    color: black;
+}
+#link-help:hover {
+    text-decoration: underline;
+}
 .p-homepage {
     font-size: 18px;
     line-height: 1.5;
